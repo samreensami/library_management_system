@@ -1,0 +1,9 @@
+[
+    {
+        "title": "my book",
+        "author": "sam",
+        "year": "2024",
+        "genre": "dfr",
+        "read": true
+    }
+]
